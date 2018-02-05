@@ -117,6 +117,7 @@
      <Compile Include="Assets\Invector-3rdPersonController\Shooter\Scripts\Shooter\Editor\vShooterManagerEditor.cs" />
      <Compile Include="Assets\Invector-3rdPersonController\Shooter\Scripts\Weapon\Editor\vCreateShooterWeaponEditor.cs" />
      <Compile Include="Assets\Invector-3rdPersonController\Shooter\Scripts\Weapon\Editor\vProjectileControlEditor.cs" />
+     <Compile Include="Assets\LowPolyWater_Pack\Scripts\Editor\GeneratePlane.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>

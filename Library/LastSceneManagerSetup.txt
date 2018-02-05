@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/LowPolyNaturePack/DemoScenes/DemoScene1.unity
+- path: Assets/Scenes/invector101.unity
   isLoaded: 1
   isActive: 1
