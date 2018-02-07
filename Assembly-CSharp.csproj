@@ -232,6 +232,8 @@
      <Compile Include="Assets\SkythianCat\Glowing_Forest\Scripts\WaterGroup.cs" />
      <None Include="Assets\Invector-3rdPersonController\Melee Combat\README_Melee.txt" />
      <None Include="Assets\LowPolyWater_Pack\LowPoly Island\Credits.txt" />
+     <None Include="Assets\Free Low Poly Toon Nature\Readme.txt" />
+     <None Include="Assets\LowpolyVegetationPackFree\Readme.txt" />
      <None Include="Assets\LowPolyWater_Pack\Shaders\WaterShaded.shader" />
      <None Include="Assets\Invector-3rdPersonController\ItemManager\3D Models\Materials\UIOnTopShader.shader" />
      <None Include="Assets\Invector-3rdPersonController\Basic Locomotion\Scripts\XInput\Plugins\MITLicense.txt" />
